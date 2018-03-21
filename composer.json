@@ -1,6 +1,6 @@
 {
-    "name": "gquemener/prooph-pack",
-    "description": "A pack to install Prooph PDO event sourcing components in a Symfony Flex application",
+    "name": "prooph/pdo-event-sourcing-pack",
+    "description": "A pack to install and pre-configure Prooph PDO event sourcing components in a Symfony Flex application",
     "type": "symfony-pack",
     "license": "MIT",
     "keywords": ["event sourcing"],
