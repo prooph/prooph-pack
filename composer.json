@@ -15,6 +15,8 @@
         "prooph/service-bus-symfony-bundle": "^0.6.0",
         "prooph/event-store-symfony-bundle": "^0.4.0",
         "prooph/event-sourcing": "^5.3",
-        "prooph/pdo-event-store": "^1.7"
+        "prooph/pdo-event-store": "^1.7",
+        "prooph/event-store-bus-bridge": "^3.1",
+        "react/promise": "^2.5"
     }
 }
