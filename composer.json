@@ -7,8 +7,17 @@
     "homepage": "http://getprooph.org/",
     "authors": [
         {
-            "name": "Gildas Quéméner",
-            "email": "gildas.quemener@gmail.com"
+            "name": "Alexander Miertsch",
+            "email": "contact@prooph.de",
+            "homepage": "http://www.prooph.de"
+        },
+        {
+            "name": "Sascha-Oliver Prolic",
+            "email": "saschaprolic@googlemail.com"
+        },
+        {
+            "name": "Oskar Pfeifer-Bley",
+            "email": "oskar@programming-php.net"
         }
     ],
     "require": {
