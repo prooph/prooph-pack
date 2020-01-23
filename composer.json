@@ -1,0 +1,28 @@
+{
+    "name": "prooph/prooph-pack",
+    "description": "A pack to install Prooph PDO event store components in a Symfony Flex application",
+    "type": "symfony-pack",
+    "license": "BSD-3-Clause",
+    "keywords": ["event sourcing", "event store", "cqrs"],
+    "homepage": "http://getprooph.org/",
+    "authors": [
+        {
+            "name": "Alexander Miertsch",
+            "email": "contact@prooph.de",
+            "homepage": "http://www.prooph.de"
+        },
+        {
+            "name": "Sascha-Oliver Prolic",
+            "email": "saschaprolic@googlemail.com"
+        },
+        {
+            "name": "Oskar Pfeifer-Bley",
+            "email": "oskar@programming-php.net"
+        }
+    ],
+    "require": {
+        "doctrine/dbal": "^2.10",
+        "prooph/event-store-symfony-bundle": "^0.8.0",
+        "prooph/pdo-event-store": "^1.0"
+    }
+}
