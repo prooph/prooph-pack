@@ -1,6 +1,6 @@
 {
     "name": "prooph/prooph-pack",
-    "description": "A pack to install Prooph PDO event store components in a Symfony Flex application",
+    "description": "A pack for the Prooph PDO event store",
     "type": "symfony-pack",
     "license": "BSD-3-Clause",
     "keywords": ["event sourcing", "event store", "cqrs"],
@@ -22,7 +22,6 @@
     ],
     "require": {
         "doctrine/dbal": "^2.10",
-        "prooph/event-store-symfony-bundle": "^0.8.0",
         "prooph/pdo-event-store": "^1.0"
     }
 }
